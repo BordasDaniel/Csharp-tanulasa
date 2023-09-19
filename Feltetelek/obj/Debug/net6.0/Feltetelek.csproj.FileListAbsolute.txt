@@ -1,0 +1,14 @@
+D:\Documents\C# tanulasa\Feltetelek\bin\Debug\net6.0\Feltetelek.exe
+D:\Documents\C# tanulasa\Feltetelek\bin\Debug\net6.0\Feltetelek.deps.json
+D:\Documents\C# tanulasa\Feltetelek\bin\Debug\net6.0\Feltetelek.runtimeconfig.json
+D:\Documents\C# tanulasa\Feltetelek\bin\Debug\net6.0\Feltetelek.dll
+D:\Documents\C# tanulasa\Feltetelek\bin\Debug\net6.0\Feltetelek.pdb
+D:\Documents\C# tanulasa\Feltetelek\obj\Debug\net6.0\Feltetelek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# tanulasa\Feltetelek\obj\Debug\net6.0\Feltetelek.AssemblyInfoInputs.cache
+D:\Documents\C# tanulasa\Feltetelek\obj\Debug\net6.0\Feltetelek.AssemblyInfo.cs
+D:\Documents\C# tanulasa\Feltetelek\obj\Debug\net6.0\Feltetelek.csproj.CoreCompileInputs.cache
+D:\Documents\C# tanulasa\Feltetelek\obj\Debug\net6.0\Feltetelek.dll
+D:\Documents\C# tanulasa\Feltetelek\obj\Debug\net6.0\refint\Feltetelek.dll
+D:\Documents\C# tanulasa\Feltetelek\obj\Debug\net6.0\Feltetelek.pdb
+D:\Documents\C# tanulasa\Feltetelek\obj\Debug\net6.0\Feltetelek.genruntimeconfig.cache
+D:\Documents\C# tanulasa\Feltetelek\obj\Debug\net6.0\ref\Feltetelek.dll

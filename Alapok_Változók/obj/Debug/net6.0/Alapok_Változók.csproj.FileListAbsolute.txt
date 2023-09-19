@@ -1,0 +1,14 @@
+D:\Documents\C# tanulasa\Alapok_Változók\bin\Debug\net6.0\Alapok_Változók.exe
+D:\Documents\C# tanulasa\Alapok_Változók\bin\Debug\net6.0\Alapok_Változók.deps.json
+D:\Documents\C# tanulasa\Alapok_Változók\bin\Debug\net6.0\Alapok_Változók.runtimeconfig.json
+D:\Documents\C# tanulasa\Alapok_Változók\bin\Debug\net6.0\Alapok_Változók.dll
+D:\Documents\C# tanulasa\Alapok_Változók\bin\Debug\net6.0\Alapok_Változók.pdb
+D:\Documents\C# tanulasa\Alapok_Változók\obj\Debug\net6.0\Alapok_Változók.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# tanulasa\Alapok_Változók\obj\Debug\net6.0\Alapok_Változók.AssemblyInfoInputs.cache
+D:\Documents\C# tanulasa\Alapok_Változók\obj\Debug\net6.0\Alapok_Változók.AssemblyInfo.cs
+D:\Documents\C# tanulasa\Alapok_Változók\obj\Debug\net6.0\Alapok_Változók.csproj.CoreCompileInputs.cache
+D:\Documents\C# tanulasa\Alapok_Változók\obj\Debug\net6.0\Alapok_Változók.dll
+D:\Documents\C# tanulasa\Alapok_Változók\obj\Debug\net6.0\refint\Alapok_Változók.dll
+D:\Documents\C# tanulasa\Alapok_Változók\obj\Debug\net6.0\Alapok_Változók.pdb
+D:\Documents\C# tanulasa\Alapok_Változók\obj\Debug\net6.0\Alapok_Változók.genruntimeconfig.cache
+D:\Documents\C# tanulasa\Alapok_Változók\obj\Debug\net6.0\ref\Alapok_Változók.dll
