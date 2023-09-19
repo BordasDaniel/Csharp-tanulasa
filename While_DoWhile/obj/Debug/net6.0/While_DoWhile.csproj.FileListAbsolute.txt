@@ -1,0 +1,14 @@
+D:\Documents\C# tanulasa\While_DoWhile\obj\Debug\net6.0\While_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# tanulasa\While_DoWhile\obj\Debug\net6.0\While_DoWhile.AssemblyInfoInputs.cache
+D:\Documents\C# tanulasa\While_DoWhile\obj\Debug\net6.0\While_DoWhile.AssemblyInfo.cs
+D:\Documents\C# tanulasa\While_DoWhile\obj\Debug\net6.0\While_DoWhile.csproj.CoreCompileInputs.cache
+D:\Documents\C# tanulasa\While_DoWhile\bin\Debug\net6.0\While_DoWhile.exe
+D:\Documents\C# tanulasa\While_DoWhile\bin\Debug\net6.0\While_DoWhile.deps.json
+D:\Documents\C# tanulasa\While_DoWhile\bin\Debug\net6.0\While_DoWhile.runtimeconfig.json
+D:\Documents\C# tanulasa\While_DoWhile\bin\Debug\net6.0\While_DoWhile.dll
+D:\Documents\C# tanulasa\While_DoWhile\bin\Debug\net6.0\While_DoWhile.pdb
+D:\Documents\C# tanulasa\While_DoWhile\obj\Debug\net6.0\While_DoWhile.dll
+D:\Documents\C# tanulasa\While_DoWhile\obj\Debug\net6.0\refint\While_DoWhile.dll
+D:\Documents\C# tanulasa\While_DoWhile\obj\Debug\net6.0\While_DoWhile.pdb
+D:\Documents\C# tanulasa\While_DoWhile\obj\Debug\net6.0\While_DoWhile.genruntimeconfig.cache
+D:\Documents\C# tanulasa\While_DoWhile\obj\Debug\net6.0\ref\While_DoWhile.dll
