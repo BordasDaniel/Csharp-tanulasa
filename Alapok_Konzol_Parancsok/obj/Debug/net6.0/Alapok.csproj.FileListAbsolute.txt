@@ -1,0 +1,14 @@
+D:\Documents\C# tanulasa\Alapok_01\Alapok\bin\Debug\net6.0\Alapok.exe
+D:\Documents\C# tanulasa\Alapok_01\Alapok\bin\Debug\net6.0\Alapok.deps.json
+D:\Documents\C# tanulasa\Alapok_01\Alapok\bin\Debug\net6.0\Alapok.runtimeconfig.json
+D:\Documents\C# tanulasa\Alapok_01\Alapok\bin\Debug\net6.0\Alapok.dll
+D:\Documents\C# tanulasa\Alapok_01\Alapok\bin\Debug\net6.0\Alapok.pdb
+D:\Documents\C# tanulasa\Alapok_01\Alapok\obj\Debug\net6.0\Alapok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# tanulasa\Alapok_01\Alapok\obj\Debug\net6.0\Alapok.AssemblyInfoInputs.cache
+D:\Documents\C# tanulasa\Alapok_01\Alapok\obj\Debug\net6.0\Alapok.AssemblyInfo.cs
+D:\Documents\C# tanulasa\Alapok_01\Alapok\obj\Debug\net6.0\Alapok.csproj.CoreCompileInputs.cache
+D:\Documents\C# tanulasa\Alapok_01\Alapok\obj\Debug\net6.0\Alapok.dll
+D:\Documents\C# tanulasa\Alapok_01\Alapok\obj\Debug\net6.0\refint\Alapok.dll
+D:\Documents\C# tanulasa\Alapok_01\Alapok\obj\Debug\net6.0\Alapok.pdb
+D:\Documents\C# tanulasa\Alapok_01\Alapok\obj\Debug\net6.0\Alapok.genruntimeconfig.cache
+D:\Documents\C# tanulasa\Alapok_01\Alapok\obj\Debug\net6.0\ref\Alapok.dll
