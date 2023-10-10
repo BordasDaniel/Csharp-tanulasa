@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {254A1F0E-573B-4EC6-8AD8-E151B55652E1}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_függvények", "String_függvények.csproj", "{BA05A37A-6F73-4747-8130-8E25C004983E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA05A37A-6F73-4747-8130-8E25C004983E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA05A37A-6F73-4747-8130-8E25C004983E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA05A37A-6F73-4747-8130-8E25C004983E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA05A37A-6F73-4747-8130-8E25C004983E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {254A1F0E-573B-4EC6-8AD8-E151B55652E1}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 983a3c25d2b03837ca9c74d1d8d18f12c09030e5
